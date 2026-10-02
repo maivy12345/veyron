@@ -19,6 +19,7 @@ From this folder, run `node preview-server.cjs` and open <http://127.0.0.1:8000/
 
 - The brief showed `support@têndomain`; the website uses **support@veyronsg.com** based on the supplied domain.
 - The logo is the supplied SVG. The hero photographs are illustrative AI-generated imagery, not VEYRON project images.
+- Photography is concentrated in page heroes. Other sections use local SVG icons from `assets/icons.svg`.
 - No project history, testimonials, certifications, named engineers, or statutory accreditation have been invented. The services page distinguishes ordinary independent review from statutory checking or certification.
 - The site can be deployed to a private preview. Using `veyronsg.com` as its public address requires domain/DNS setup.
 

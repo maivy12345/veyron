@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <symbol id="review" viewBox="0 0 48 48"><path d="M18 5h15l7 7v29H8V5h10Z"/><path d="M33 5v8h7M15 20h18M15 26h9M15 32h6"/><circle cx="32" cy="31" r="6"/><path d="m36.5 35.5 5 5"/></symbol>
+  <symbol id="structure" viewBox="0 0 48 48"><path d="M5 40h38M9 40V21l15-11 15 11v19M9 22h30M16 40V24m16 16V24M16 32h16M17 21l7-11 7 11"/></symbol>
+  <symbol id="coordination" viewBox="0 0 48 48"><circle cx="24" cy="7" r="4"/><circle cx="8" cy="37" r="4"/><circle cx="40" cy="37" r="4"/><path d="M22 11 10 33m16-22 12 22M12 37h24M24 20v12m-6-6h12"/></symbol>
+  <symbol id="bridge" viewBox="0 0 48 48"><path d="M4 39h40M7 23h34v6H7zM11 29v10m26-10v10M11 23c4-11 22-11 26 0M17 15v8m14-8v8"/></symbol>
+  <symbol id="excavation" viewBox="0 0 48 48"><path d="M4 10h40M7 10v28h34V10M13 16v18m22-18v18M13 25h22M18 38v5m12-5v5M4 43h40"/></symbol>
+  <symbol id="utilities" viewBox="0 0 48 48"><path d="M4 13h40M4 35h40M10 13v22m28-22v22M10 24h11v-6h6v12h11M21 24v10m6-16v-5"/><circle cx="21" cy="34" r="2"/></symbol>
+  <symbol id="scope" viewBox="0 0 48 48"><rect x="8" y="7" width="32" height="34" rx="2"/><path d="M16 6v6m16-6v6M15 20h18m-18 7h12m-12 7h8"/><path d="m29 32 3 3 6-7"/></symbol>
+  <symbol id="examine" viewBox="0 0 48 48"><circle cx="21" cy="21" r="13"/><path d="m31 31 11 11M15 21h12m-6-6v12"/></symbol>
+  <symbol id="develop" viewBox="0 0 48 48"><path d="M7 35 30 12l6 6-23 23H7v-6ZM26 16l6 6M7 41h34M32 7l9 9"/></symbol>
+  <symbol id="deliver" viewBox="0 0 48 48"><path d="M10 5h21l7 7v31H10V5ZM31 5v8h7M17 22h14m-14 7h14m-14 7h8"/><path d="m30 35 3 3 7-8"/></symbol>
+  <symbol id="independent" viewBox="0 0 48 48"><path d="M24 4 40 10v12c0 10-6 17-16 22C14 39 8 32 8 22V10L24 4Z"/><path d="m16 24 6 6 11-13"/></symbol>
+  <symbol id="practical" viewBox="0 0 48 48"><path d="M7 40h34M12 40V20l12-10 12 10v20M12 21h24M18 40V26h12v14M24 10v16"/></symbol>
+  <symbol id="clarity" viewBox="0 0 48 48"><path d="M15 8h18v29H15zM10 13H6v29h27v-5M20 16h8m-8 7h8m-8 7h5"/><path d="m30 32 4 4 8-9"/></symbol>
+  <symbol id="mail" viewBox="0 0 48 48"><rect x="5" y="11" width="38" height="27" rx="2"/><path d="m6 14 18 14 18-14"/></symbol>
+  <symbol id="phone" viewBox="0 0 48 48"><path d="M15 5h18v38H15zM21 10h6M22 37h4M18 15h12v17H18z"/></symbol>
+  <symbol id="location" viewBox="0 0 48 48"><path d="M24 44S10 27 10 19a14 14 0 1 1 28 0c0 8-14 25-14 25Z"/><circle cx="24" cy="19" r="5"/></symbol>
+  <symbol id="company" viewBox="0 0 48 48"><path d="M6 42h36M10 42V16l14-9 14 9v26M18 21h4m4 0h4m-12 8h4m4 0h4M20 42V35h8v7"/></symbol>
+  <symbol id="web" viewBox="0 0 48 48"><circle cx="24" cy="24" r="19"/><path d="M5 24h38M24 5c-7 7-10 14-10 19s3 12 10 19M24 5c7 7 10 14 10 19s-3 12-10 19M9 14h30M9 34h30"/></symbol>
+</svg>
